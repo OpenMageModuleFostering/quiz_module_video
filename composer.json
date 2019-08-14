@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Quiz_Module_Video",
+    "type": "magento-module",
+    "license": "OSL",
+    "homepage": "",
+    "description": "version 1.0.2",
+    "authors": [
+    {
+        "name": "Abhay",
+        "email": "abhay5683@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
