@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Quiz_Module_Video",
+    "name": "OpenMageModuleFostering\/Quiz_Module_Video",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "Quiz module is mainly used for quiz compitition in which you can add your quiz details",
     "authors": [
-    {
-        "name": "Abhay",
-        "email": "abhay5683@gmail.com"
-    }
-],
+        {
+            "name": "Abhay",
+            "email": "abhay5683@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
