@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Quiz_Module_Video",
+    "name": "openmage-module-fostering\/quiz_module_video",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Quiz module is mainly used for quiz compitition in which you can add your quiz details",
     "authors": [
